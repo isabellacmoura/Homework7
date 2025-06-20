@@ -8,12 +8,9 @@
 - ...
 - ...
 
-
-
----
 > **Infinite loop**
-````
- LeMonde
+
+LeMonde
 
 
 
