@@ -1,7 +1,7 @@
 # Homework7
 # Level of Difficulty (Ascending Order)
 
-## Wikipedia List...
+- Wikipedia List...
 - Cars
 - Authorized Third Party
 - ...
@@ -11,9 +11,9 @@
 
 
 ---
-
-## LeMonde
-
-
 > **Infinite loop**
 ````
+ LeMonde
+
+
+
